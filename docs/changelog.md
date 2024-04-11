@@ -2,6 +2,21 @@
 
 :play is [semantically versioned](https://semver.org).
 
+## v0.0.36
+
+- c00ee78 fix layout to include border
+- 3e48614 (upstream/main) Changes generated hostname for compute-go bundles (#8)
+- 474a3d2 Upgrade dependencies
+- 53e0f0c Support Hello
+- 10c5d76 Check uncompressed size
+- cc4bbf0 Support remote execution
+- 32467fc Fix tsbuildinfo paths
+- e2bdf3c Fix a couple build issues and add meta
+- cf3579c Tidy tsconfig
+- d3d0d95 Upgrade dependencies
+- 7e1a3a7 Fix versions again
+- f9bf568 Fix versions
+
 ## v0.0.35
 
 - d01679b Upgrade dependencies
